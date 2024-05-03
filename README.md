@@ -17,3 +17,6 @@ We have experimented with several CNN architectures on this dataset to achieve h
 ## Source
 
 https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
+
+## nbview link
+https://nbviewer.org/github/Menna2002/ChineseTrafficSigns/blob/main/chinesetrafficsigns.ipynb
