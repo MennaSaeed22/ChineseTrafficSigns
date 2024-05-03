@@ -13,3 +13,7 @@ Researchers and practitioners can utilize this dataset for various computer visi
 ## Performance
 
 We have experimented with several CNN architectures on this dataset to achieve high recognition accuracy. Our models have demonstrated robust performance across various traffic sign classes, showcasing the effectiveness of deep learning techniques in traffic sign recognition.
+
+## Source
+
+https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
