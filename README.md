@@ -26,5 +26,5 @@ project is made possible by the contributions of the following team members:
 - Omar Alaa - second model
 - Hager Mohamed - confusion matrix for two models
 
-## ## nbviewer link
+## nbviewer link
 https://nbviewer.org/github/Menna2002/ChineseTrafficSigns/blob/main/chinesetrafficsigns.ipynb
