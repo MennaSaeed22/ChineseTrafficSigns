@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
 
 ## Contributors
 
-Lymphoma project is made possible by the contributions of the following team members:
+project is made possible by the contributions of the following team members:
 
 - Menna Allah Saed - preprocessing + first model
 - Omar Alaa - second model
