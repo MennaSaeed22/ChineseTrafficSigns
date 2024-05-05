@@ -18,5 +18,13 @@ We have experimented with several CNN architectures on this dataset to achieve h
 
 https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
 
+## Contributors
+
+Lymphoma project is made possible by the contributions of the following team members:
+
+- Menna Allah Saed - preprocessing + first model
+- Omar Alaa - second model
+- Hager Mohamed - confusion matrix for two models
+
 ## ## nbviewer link
 https://nbviewer.org/github/Menna2002/ChineseTrafficSigns/blob/main/chinesetrafficsigns.ipynb
