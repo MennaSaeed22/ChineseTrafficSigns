@@ -22,7 +22,7 @@ https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
 
 project is made possible by the contributions of the following team members:
 
-- Menna Allah Saed 
+- Menna allah Saeed 
 - Omar Alaa 
 - Hager Mohamed
 - Rawan Khaled
