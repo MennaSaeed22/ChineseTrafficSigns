@@ -22,9 +22,10 @@ https://www.kaggle.com/datasets/dmitryyemelyanov/chinese-traffic-signs/data
 
 project is made possible by the contributions of the following team members:
 
-- Menna Allah Saed - preprocessing + first model
-- Omar Alaa - second model
-- Hager Mohamed - confusion matrix for two models
+- Menna Allah Saed 
+- Omar Alaa 
+- Hager Mohamed
+- Rawan Khaled
 
 ## nbviewer link
 https://nbviewer.org/github/Menna2002/ChineseTrafficSigns/blob/main/chinesetrafficsigns.ipynb
