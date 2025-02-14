@@ -26,6 +26,3 @@ project is made possible by the contributions of the following team members:
 - Omar Alaa 
 - Hager Mohamed
 - Rawan Khaled
-
-## nbviewer link
-https://nbviewer.org/github/Menna2002/ChineseTrafficSigns/blob/main/chinesetrafficsigns.ipynb
